@@ -15,9 +15,9 @@ huggingface-hub==0.23.2
 omegaconf~=2.3.0
 tqdm
 python-ms
-# torch
-# torchvision
-# torchaudio
+ torch
+ torchvision
+ torchaudio
 
 # colab
 datasets
